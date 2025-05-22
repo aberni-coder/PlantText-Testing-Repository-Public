@@ -1,1 +1,7 @@
-QHN0YXJ0dW1sCgp0aXRsZSBFbXB0eSBEaWFncmFtIC0geGVhcnRoLnR4dAo6aGVsbG87CjpXb3JsZDsKCkBlbmR1bWw=
+@startuml
+
+title Empty Diagram - xearth.txt
+:hello;
+:World;
+
+@enduml
