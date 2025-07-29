@@ -3,5 +3,6 @@
 title Empty Diagram - testing3.puml
 :hello;
 :World;
+:blah;
 
 @enduml
